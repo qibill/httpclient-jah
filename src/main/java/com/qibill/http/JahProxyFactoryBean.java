@@ -1,4 +1,4 @@
-package com.qibill.http.jah;
+package com.qibill.http;
 
 /**
  * @author qibill

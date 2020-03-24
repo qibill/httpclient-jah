@@ -1,2 +1,2 @@
 # httpclient-jah
-httpclient的Java Api Http
+基于httpclient开发的Java Api Http
